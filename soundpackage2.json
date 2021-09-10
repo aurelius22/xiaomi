@@ -124,14 +124,14 @@
 				"id": "ZH"
 			},
 			{
-				"icon": "http://192.168.1.14/xiaomi/r2d2.png",
-				"listen": "http://192.168.1.14/xiaomi/r2d2.mp3",
+				"icon": "https://github.com/aurelius22/xiaomi/blob/main/r2d2.png",
+				"listen": "https://github.com/aurelius22/xiaomi/blob/main/r2d2.mp3",
 				"name": {
 				    "default":"R2D2"
 				},
 				"desc":{
 				},
-				"download": "http://192.168.1.14/xiaomi/R2.tar.gz",
+				"download": "https://github.com/aurelius22/xiaomi/blob/main/R2.tar.gz",
 				"md5sum": "0e6f067a4d59cf52db8f837cae81dfb1",
 				"size":613325,
 				"id": "R2"
